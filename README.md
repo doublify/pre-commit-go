@@ -6,7 +6,7 @@
 
 ```yaml
 -   repo: git://github.com/doublify/pre-commit-go
-    sha: ''
+    sha: master
     hooks:
     -   id: fmt
     -   id: vet
