@@ -1,7 +1,7 @@
 -   id: fmt
     name: fmt
     description: Format files with go fmt.
-    entry: go fmt
+    entry: fmt.sh
     language: system
     files: \.go$
 -   id: vet
