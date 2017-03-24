@@ -8,5 +8,5 @@
     name: vet
     description: Check files with go vet.
     entry: vet.sh
-    language: system
+    language: script
     files: \.go$
