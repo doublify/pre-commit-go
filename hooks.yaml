@@ -7,6 +7,6 @@
 -   id: vet
     name: vet
     description: Check files with go vet.
-    entry: go vet
+    entry: vet.sh
     language: system
     files: \.go$

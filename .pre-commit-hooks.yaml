@@ -1,12 +1,12 @@
 -   id: fmt
     name: fmt
     description: Format files with go fmt.
-    entry: go fmt
+    entry: fmt.sh
     language: system
     files: \.go$
 -   id: vet
     name: vet
     description: Check files with go vet.
-    entry: go vet
+    entry: vet.sh
     language: system
     files: \.go$
