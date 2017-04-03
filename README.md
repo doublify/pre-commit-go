@@ -10,4 +10,5 @@
     hooks:
     -   id: fmt
     -   id: vet
+    -   id: fix
 ```

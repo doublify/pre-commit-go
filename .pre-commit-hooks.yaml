@@ -10,3 +10,9 @@
     entry: vet.sh
     language: script
     files: \.go$
+-   id: fix
+    name: fix
+    description: Fix files with go fix.
+    entry: go fix
+    language: system
+    files: \.go$
